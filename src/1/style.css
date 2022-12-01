@@ -1,0 +1,31 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+
+}
+.all-centerd {
+    text-align: center;
+    padding-left: 20%;
+    width: 60%;
+}
+h1 {
+    display: inline;
+}
+a {
+    display: block;
+}
+.Flex {
+    display: inline-flex;
+    text-align: left;
+}
+td, th {
+    padding-right: 50px;
+}
+.sector {
+    padding: 20px;
+}
+header {
+    width: 80%;
+    text-align: left;
+}
